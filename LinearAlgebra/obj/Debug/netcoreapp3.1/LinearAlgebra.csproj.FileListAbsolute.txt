@@ -1,0 +1,10 @@
+C:\projects\LinearAlgebra\obj\Debug\netcoreapp3.1\LinearAlgebra.csproj.AssemblyReference.cache
+C:\projects\LinearAlgebra\obj\Debug\netcoreapp3.1\LinearAlgebra.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\LinearAlgebra\obj\Debug\netcoreapp3.1\LinearAlgebra.AssemblyInfoInputs.cache
+C:\projects\LinearAlgebra\obj\Debug\netcoreapp3.1\LinearAlgebra.AssemblyInfo.cs
+C:\projects\LinearAlgebra\obj\Debug\netcoreapp3.1\LinearAlgebra.csproj.CoreCompileInputs.cache
+C:\projects\LinearAlgebra\bin\Debug\netcoreapp3.1\LinearAlgebra.deps.json
+C:\projects\LinearAlgebra\bin\Debug\netcoreapp3.1\LinearAlgebra.dll
+C:\projects\LinearAlgebra\bin\Debug\netcoreapp3.1\LinearAlgebra.pdb
+C:\projects\LinearAlgebra\obj\Debug\netcoreapp3.1\LinearAlgebra.dll
+C:\projects\LinearAlgebra\obj\Debug\netcoreapp3.1\LinearAlgebra.pdb
